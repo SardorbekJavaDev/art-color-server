@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ArtColorServerApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ArtColorServerApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ArtColorServerApplication.class, args);
+    }
 
 }
